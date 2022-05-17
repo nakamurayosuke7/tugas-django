@@ -1,3 +1,5 @@
-#tentang-django
+## **tentang django**
 
-django adalah 
+django adalah website framework python yang menggunakan sistem MVP.
+
+
